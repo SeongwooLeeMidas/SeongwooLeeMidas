@@ -5,4 +5,4 @@
 
 ---
 
-![https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/seong_w2o/)
+<a href="https://www.instagram.com/seong_w2o"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/seong_w2o"/></a>
